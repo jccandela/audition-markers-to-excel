@@ -1,0 +1,10 @@
+Minute;Second;Millisecond;Name;Start;Duration;TimeFormat;Type;Description
+0;29;733;Marcador 07;0:29.733;0:00.000;decimal;Cue;
+1;12;080;Marcador 02;1:12.080;0:00.000;decimal;Cue;
+2;01;635;Marcador 03;2:01.635;0:00.000;decimal;Cue;
+2;01;635;Marcador 04;2:01.635;0:00.000;decimal;Cue;
+2;40;379;Marcador 05;2:40.379;0:00.000;decimal;Cue;
+2;40;379;Marcador 06;2:40.379;0:00.000;decimal;Cue;
+4;24;895;Marcador 08;4:24.895;0:00.000;decimal;Cue;
+5;13;550;Marcador 09;5:13.550;0:00.000;decimal;Cue;
+12;50;275;Marcador 01;12:50.275;0:00.000;decimal;Cue;

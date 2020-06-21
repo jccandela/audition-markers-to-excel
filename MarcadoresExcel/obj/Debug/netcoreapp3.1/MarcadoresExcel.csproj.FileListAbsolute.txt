@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\MarcadoresExcel.exe
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\obj\Debug\netcoreapp3.1\MarcadoresExcel.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\obj\Debug\netcoreapp3.1\MarcadoresExcel.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\obj\Debug\netcoreapp3.1\MarcadoresExcel.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\MarcadoresExcel.deps.json
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\MarcadoresExcel.runtimeconfig.json
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\MarcadoresExcel.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\MarcadoresExcel.dll
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\MarcadoresExcel.pdb
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\obj\Debug\netcoreapp3.1\MarcadoresExcel.csproj.CopyComplete
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\obj\Debug\netcoreapp3.1\MarcadoresExcel.dll
+C:\Users\Carlos\source\repos\MarcadoresExcel\MarcadoresExcel\obj\Debug\netcoreapp3.1\MarcadoresExcel.pdb
